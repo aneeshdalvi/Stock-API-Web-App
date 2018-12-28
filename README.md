@@ -1,6 +1,6 @@
-# Stock API Web Application
+# Stock Quotes Application using Stocks API
 
-This is a simple web application which uses the live Stock API and displays current prices using Google graphs and updates every 5 second.
+This is a simple web application which uses the live [Stock API](https://iextrading.com/developer/) and displays current prices using Google graphs and updates every 5 second.
 
 Technologies Used:
 1. HTML
