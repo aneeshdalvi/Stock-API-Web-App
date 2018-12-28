@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#textbox {
+    margin: 0;
+}
+
+.form-control { display: inline-block !important; }
+
+
